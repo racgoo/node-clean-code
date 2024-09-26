@@ -1,3 +1,3 @@
-import { compositionTest } from 'examples/composition';
+import { methodExtractTest } from 'examples/methodExtract';
 
-compositionTest();
+methodExtractTest();

@@ -37,5 +37,3 @@ export function compositionTest() {
   console.log('penguin can fly?', penguin.canFly());
   console.log('penguin has beak?', penguin.hasBeak());
 }
-
-compositionTest();
